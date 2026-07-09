@@ -1,0 +1,500 @@
+{
+    "user_id": "user_001",
+    "items": [
+        {
+            "cloth_id": "top_001",
+            "category": "Top",
+            "subcategory": "T-Shirt",
+            "color_name": "Black",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Regular",
+            "texture": "Smooth",
+            "sleeve": "Half",
+            "neck": "Round",
+            "season": [
+                "Spring",
+                "Summer"
+            ],
+            "style_tags": [
+                "Minimal",
+                "Casual"
+            ],
+            "occasion_tags": [
+                "Casual",
+                "Travel"
+            ],
+            "img_url": "images/top_001.jpg"
+        },
+        {
+            "cloth_id": "top_002",
+            "category": "Top",
+            "subcategory": "Formal Shirt",
+            "color_name": "White",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Slim",
+            "texture": "Smooth",
+            "sleeve": "Full",
+            "neck": "Collar",
+            "season": [
+                "Spring",
+                "Autumn"
+            ],
+            "style_tags": [
+                "Formal",
+                "Classic"
+            ],
+            "occasion_tags": [
+                "Work",
+                "Meeting"
+            ],
+            "img_url": "images/top_002.jpg"
+        },
+        {
+            "cloth_id": "top_003",
+            "category": "Top",
+            "subcategory": "Polo",
+            "color_name": "Navy Blue",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Regular",
+            "texture": "Smooth",
+            "sleeve": "Half",
+            "neck": "Polo",
+            "season": [
+                "Summer"
+            ],
+            "style_tags": [
+                "Smart Casual"
+            ],
+            "occasion_tags": [
+                "Casual",
+                "Work"
+            ],
+            "img_url": "images/top_003.jpg"
+        },
+        {
+            "cloth_id": "top_004",
+            "category": "Top",
+            "subcategory": "Hoodie",
+            "color_name": "Grey",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Fleece",
+            "fit": "Oversized",
+            "texture": "Soft",
+            "sleeve": "Full",
+            "neck": "Hood",
+            "season": [
+                "Autumn",
+                "Winter"
+            ],
+            "style_tags": [
+                "Streetwear"
+            ],
+            "occasion_tags": [
+                "Travel",
+                "Casual"
+            ],
+            "img_url": "images/top_004.jpg"
+        },
+        {
+            "cloth_id": "top_005",
+            "category": "Top",
+            "subcategory": "Sweater",
+            "color_name": "Maroon",
+            "color_embedding": null,
+            "pattern": "Cable Knit",
+            "fabric": "Wool",
+            "fit": "Regular",
+            "texture": "Knitted",
+            "sleeve": "Full",
+            "neck": "Crew",
+            "season": [
+                "Winter"
+            ],
+            "style_tags": [
+                "Cozy"
+            ],
+            "occasion_tags": [
+                "Travel",
+                "Casual"
+            ],
+            "img_url": "images/top_005.jpg"
+        },
+        {
+            "cloth_id": "bottom_001",
+            "category": "Bottom",
+            "subcategory": "Jeans",
+            "color_name": "Blue",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Denim",
+            "fit": "Slim",
+            "texture": "Denim",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Spring",
+                "Summer",
+                "Autumn"
+            ],
+            "style_tags": [
+                "Casual"
+            ],
+            "occasion_tags": [
+                "Casual",
+                "Travel"
+            ],
+            "img_url": "images/bottom_001.jpg"
+        },
+        {
+            "cloth_id": "bottom_002",
+            "category": "Bottom",
+            "subcategory": "Chinos",
+            "color_name": "Beige",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Regular",
+            "texture": "Smooth",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Spring",
+                "Summer"
+            ],
+            "style_tags": [
+                "Smart Casual"
+            ],
+            "occasion_tags": [
+                "Work",
+                "Meeting"
+            ],
+            "img_url": "images/bottom_002.jpg"
+        },
+        {
+            "cloth_id": "bottom_003",
+            "category": "Bottom",
+            "subcategory": "Cargo Pants",
+            "color_name": "Olive",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Relaxed",
+            "texture": "Canvas",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Autumn",
+                "Winter"
+            ],
+            "style_tags": [
+                "Streetwear"
+            ],
+            "occasion_tags": [
+                "Travel"
+            ],
+            "img_url": "images/bottom_003.jpg"
+        },
+        {
+            "cloth_id": "bottom_004",
+            "category": "Bottom",
+            "subcategory": "Shorts",
+            "color_name": "Khaki",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Regular",
+            "texture": "Smooth",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Summer"
+            ],
+            "style_tags": [
+                "Casual"
+            ],
+            "occasion_tags": [
+                "Travel",
+                "Casual"
+            ],
+            "img_url": "images/bottom_004.jpg"
+        },
+        {
+            "cloth_id": "bottom_005",
+            "category": "Bottom",
+            "subcategory": "Formal Trousers",
+            "color_name": "Black",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Polyester",
+            "fit": "Slim",
+            "texture": "Smooth",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Spring",
+                "Autumn"
+            ],
+            "style_tags": [
+                "Formal"
+            ],
+            "occasion_tags": [
+                "Meeting",
+                "Work"
+            ],
+            "img_url": "images/bottom_005.jpg"
+        },
+        {
+            "cloth_id": "foot_001",
+            "category": "Footwear",
+            "subcategory": "Sneakers",
+            "color_name": "White",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Canvas",
+            "fit": "Regular",
+            "texture": "Smooth",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Spring",
+                "Summer",
+                "Autumn"
+            ],
+            "style_tags": [
+                "Casual"
+            ],
+            "occasion_tags": [
+                "Travel",
+                "Casual"
+            ],
+            "img_url": "images/foot_001.jpg"
+        },
+        {
+            "cloth_id": "foot_002",
+            "category": "Footwear",
+            "subcategory": "Formal Shoes",
+            "color_name": "Black",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Leather",
+            "fit": "Regular",
+            "texture": "Leather",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Spring",
+                "Autumn"
+            ],
+            "style_tags": [
+                "Formal"
+            ],
+            "occasion_tags": [
+                "Work",
+                "Meeting"
+            ],
+            "img_url": "images/foot_002.jpg"
+        },
+        {
+            "cloth_id": "foot_003",
+            "category": "Footwear",
+            "subcategory": "Sandals",
+            "color_name": "Brown",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Leather",
+            "fit": "Regular",
+            "texture": "Leather",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Summer"
+            ],
+            "style_tags": [
+                "Casual"
+            ],
+            "occasion_tags": [
+                "Travel"
+            ],
+            "img_url": "images/foot_003.jpg"
+        },
+        {
+            "cloth_id": "outer_001",
+            "category": "Outerwear",
+            "subcategory": "Denim Jacket",
+            "color_name": "Blue",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Denim",
+            "fit": "Regular",
+            "texture": "Denim",
+            "sleeve": "Full",
+            "neck": "Collar",
+            "season": [
+                "Autumn",
+                "Winter"
+            ],
+            "style_tags": [
+                "Streetwear"
+            ],
+            "occasion_tags": [
+                "Casual"
+            ],
+            "img_url": "images/outer_001.jpg"
+        },
+        {
+            "cloth_id": "outer_002",
+            "category": "Outerwear",
+            "subcategory": "Blazer",
+            "color_name": "Navy",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Wool",
+            "fit": "Slim",
+            "texture": "Smooth",
+            "sleeve": "Full",
+            "neck": "Collar",
+            "season": [
+                "Spring",
+                "Autumn"
+            ],
+            "style_tags": [
+                "Formal"
+            ],
+            "occasion_tags": [
+                "Meeting",
+                "Work"
+            ],
+            "img_url": "images/outer_002.jpg"
+        },
+        {
+            "cloth_id": "outer_003",
+            "category": "Outerwear",
+            "subcategory": "Winter Coat",
+            "color_name": "Camel",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Wool",
+            "fit": "Regular",
+            "texture": "Soft",
+            "sleeve": "Full",
+            "neck": "Collar",
+            "season": [
+                "Winter"
+            ],
+            "style_tags": [
+                "Elegant"
+            ],
+            "occasion_tags": [
+                "Travel"
+            ],
+            "img_url": "images/outer_003.jpg"
+        },
+        {
+            "cloth_id": "acc_001",
+            "category": "Accessory",
+            "subcategory": "Watch",
+            "color_name": "Silver",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Metal",
+            "fit": "Regular",
+            "texture": "Metallic",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Spring",
+                "Summer",
+                "Autumn",
+                "Winter"
+            ],
+            "style_tags": [
+                "Classic"
+            ],
+            "occasion_tags": [
+                "Work",
+                "Meeting",
+                "Party"
+            ],
+            "img_url": "images/acc_001.jpg"
+        },
+        {
+            "cloth_id": "acc_002",
+            "category": "Accessory",
+            "subcategory": "Cap",
+            "color_name": "Black",
+            "color_embedding": null,
+            "pattern": "Solid",
+            "fabric": "Cotton",
+            "fit": "Regular",
+            "texture": "Soft",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Summer"
+            ],
+            "style_tags": [
+                "Sporty"
+            ],
+            "occasion_tags": [
+                "Travel",
+                "Casual"
+            ],
+            "img_url": "images/acc_002.jpg"
+        },
+        {
+            "cloth_id": "acc_003",
+            "category": "Accessory",
+            "subcategory": "Scarf",
+            "color_name": "Red",
+            "color_embedding": null,
+            "pattern": "Checked",
+            "fabric": "Wool",
+            "fit": "Regular",
+            "texture": "Knitted",
+            "sleeve": null,
+            "neck": null,
+            "season": [
+                "Winter"
+            ],
+            "style_tags": [
+                "Cozy"
+            ],
+            "occasion_tags": [
+                "Travel"
+            ],
+            "img_url": "images/acc_003.jpg"
+        },
+        {
+            "cloth_id": "top_006",
+            "category": "Top",
+            "subcategory": "Floral Shirt",
+            "color_name": "Green",
+            "color_embedding": null,
+            "pattern": "Floral",
+            "fabric": "Linen",
+            "fit": "Relaxed",
+            "texture": "Light",
+            "sleeve": "Half",
+            "neck": "Collar",
+            "season": [
+                "Summer"
+            ],
+            "style_tags": [
+                "Vacation",
+                "Boho"
+            ],
+            "occasion_tags": [
+                "Party",
+                "Travel"
+            ],
+            "img_url": "images/top_006.jpg"
+        }
+    ]
+}
