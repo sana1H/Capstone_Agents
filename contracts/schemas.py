@@ -62,6 +62,7 @@ class UserRequest(BaseModel):
     city: str       #weather api needs city 
 
 
+
 class UserPreference(BaseModel):
     user_id: str
     preferred_styles: List[str]        # e.g. ["Minimal", "Casual"]
@@ -75,3 +76,12 @@ class UserPreference(BaseModel):
 class OutfitScore(BaseModel):
     score: int          # 0-100
     reasoning: str      # why this score was given
+
+
+class FeedbackRequest(BaseModel):
+    user_id: str
+    outfit_reasoning: str
+    user_score: int        # user's rating 1-5
+    score_reasoning: str   # AI's scoring reasoning
+           
+    

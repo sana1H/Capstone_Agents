@@ -3,6 +3,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contracts.schemas import UserRequest
 from orchestrator.graph import aura_graph
+from contracts.schemas import FeedbackRequest
+from tools.save_user_feedback import save_user_feedback
+
 
 app = FastAPI()
 
@@ -30,3 +33,8 @@ async def recommend_outfit(request: UserRequest):
         "scoreReasoning": result["outfit_score"].reasoning,
         "itemIds": extract_item_ids(result["outfit_reasoning"]),
     }
+
+@app.post("/feedback")
+async def submit_feedback(request: FeedbackRequest):
+    save_user_feedback(request.user_id, request.outfit_reasoning, request.score_reasoning, request.user_score)
+    return {"status": "success", "message": "Feedback saved."}
