@@ -38,3 +38,12 @@ async def recommend_outfit(request: UserRequest):
 async def submit_feedback(request: FeedbackRequest):
     save_user_feedback(request.user_id, request.outfit_reasoning, request.score_reasoning, request.user_score)
     return {"status": "success", "message": "Feedback saved."}
+
+
+@app.get("/")
+async def root():
+    return {
+        "name": "AURA API",
+        "version": "1.0",
+        "docs": "https://web-production-63b634.up.railway.app/docs"
+    }
