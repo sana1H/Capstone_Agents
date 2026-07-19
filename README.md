@@ -303,7 +303,7 @@ AURA/
 - Designed with **extensibility** in mind, allowing new agents and capabilities to be integrated with minimal changes.
 
 ---
-<!-- 
+
 <p align="center">
 Built using FastAPI, LangGraph, Gemini, and OpenWeather API.
-</p> -->
+</p>
