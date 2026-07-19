@@ -164,7 +164,7 @@ Stores user feedback to improve future recommendations.
 
 ---
 
-# 💻 Running the Project Locally
+<!-- # 💻 Running the Project Locally
 
 ## 1. Clone the Repository
 
@@ -208,9 +208,9 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs
 ```
 
----
+--- -->
 
-# 📁 Project Structure
+<!-- # 📁 Project Structure
 
 ```text
 AURA/
@@ -248,7 +248,7 @@ AURA/
 └── README.md
 ```
 
----
+--- -->
 
 # ✨ Key Features
 
@@ -285,7 +285,7 @@ AURA/
 
 ---
 
-# 👥 Team
+<!-- # 👥 Team
 
 | Member | Responsibility |
 |---------|----------------|
@@ -293,7 +293,7 @@ AURA/
 | **Akarsh Dhingra** | Mobile Application Development |
 | **Vision Model** | CNN-based Clothing Recognition *(In Progress)* |
 
----
+--- -->
 
 # 📌 Project Highlights
 
@@ -303,7 +303,7 @@ AURA/
 - Designed with **extensibility** in mind, allowing new agents and capabilities to be integrated with minimal changes.
 
 ---
-
+<!-- 
 <p align="center">
 Built with ❤️ using FastAPI, LangGraph, Gemini, and OpenWeather API.
-</p>
+</p> -->
