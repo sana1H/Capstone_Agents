@@ -305,5 +305,5 @@ AURA/
 ---
 <!-- 
 <p align="center">
-Built with ❤️ using FastAPI, LangGraph, Gemini, and OpenWeather API.
+Built using FastAPI, LangGraph, Gemini, and OpenWeather API.
 </p> -->
